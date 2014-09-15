@@ -1,4 +1,4 @@
-#Indonesia Provinces SVG Map
+#Indonesia Provinces Map
 
 Peta Indonesia ini adalah peta berformat SVG yang sudah terbagi untuk tiap daerah propinsi sehingga ramah bagi pengembang. 
 
