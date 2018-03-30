@@ -8,3 +8,7 @@ Peta Indonesia ini adalah peta berformat SVG yang sudah terbagi untuk tiap daera
 
 ![Indonesia Map](https://raw.githubusercontent.com/junwatu/indonesia-map/master/indonesia.png)
 
+
+## Lisensi
+
+GNU General Public License v3.0
